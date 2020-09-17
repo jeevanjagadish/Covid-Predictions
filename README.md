@@ -1,4 +1,4 @@
-# Prediction the things which you cnt using ML-models
+# Predict the things which you can't using ML-models
 Some of the models used for predictions are:
 *Linear Regression
 *Logistic Regression
