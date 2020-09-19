@@ -1,5 +1,5 @@
 # Predict the things which you can't using ML-models
-Some of the models used for predictions are:
+Some of the models used for predictions:
 Linear Regression
 | Logistic Regression
 | Decision Tree
