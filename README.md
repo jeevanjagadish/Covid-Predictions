@@ -8,3 +8,4 @@ Linear Regression
 | kNN
 | K-Means
 | Random Forest
+| Gradient Boosting Classifier
