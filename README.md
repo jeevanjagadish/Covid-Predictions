@@ -9,3 +9,4 @@ Linear Regression
 | K-Means
 | Random Forest
 | Gradient Boosting Classifier
+| Convolutional Neural Networks
